@@ -16,3 +16,10 @@ Here is a sample entry (delete this line; also: feel free to copy/paste/modify):
 3. **PROB:** Had a hard time scheduling physicial meetings with each other at
    first, but now that we've settled on a regular day/time things are looking
    great!
+
+    Reflection 1 (11/30/2020):
+    Game: reversi
+    Note 1: changing the colors of the game cause its fun
+    Note 2: going to implemet the game layout with a gridpane and buttons
+    Note 3: idk how I would do a high score board with this game
+    note 4: made flash cards with the things each part needs (ex: buttons, labels, etc)
