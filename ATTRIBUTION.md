@@ -1,10 +1,16 @@
 # Attribution List
 
-Proper attribution should be given for all assets (e.g., art, sound, music, etc.) that is not
-authored by members of your project team.
+## pink
+* "resources/pink.png'
+* Allie McClure. "pink" November 27,2020
+* made using Paint3D
 
-## Alien
-* `src/main/resources/alien.png`
-* Carlos Alface. "Alien" November 15, 2014
-* https://opengameart.org/content/alien-1
-* Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+## blue
+* "resources/blue.png'
+* Allie McClure. "blue" November 27,2020
+* made using Paint3D
+
+## reversipretty
+* "resources/reversipretty.png'
+* Allie McClure. "reversipretty" December 11,2020
+* made using Paint3D

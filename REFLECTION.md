@@ -11,7 +11,15 @@ that the Markdown is transformed into nice looking HTML.
     Note 2: going to implemet the game layout with a gridpane and buttons
     Note 3: idk how I would do a high score board with this game
     note 4: made flash cards with the things each part needs (ex: buttons, labels, etc)
+
 ## Reflection 2 (12/8/2020) :
     Game: reversi
     Note 1: working on implementing the tracing of the game
     Note 2: decided to use squares
+
+## Reflection 3 (12/15/2020) :
+    Game: reversi
+    Note 1: project is finished.
+    Note 2: many parts of the project were added or edited
+    Note 3: had some issues ending the game loop but they were resolved using the con variable
+    Note 4: I debated doing some of the extra credit but decided not too
