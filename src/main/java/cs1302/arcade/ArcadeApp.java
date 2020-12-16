@@ -47,11 +47,9 @@ public class ArcadeApp extends Application {
     Text who = new Text();
     Text score = new Text();
     StackPane home = new StackPane();
-    Scene scene = new Scene(home);
     Image revp2 = new Image("file:resources/reversipretty.png",520,90,false,false);
     ImageView t3 = new ImageView(revp2);
     Button re = new Button("return to Home Page");
-    Button restart = new Button("Restart");
     Label turn = new Label("Turn: ");
     Label sco = new Label("Score: ");
 
@@ -61,6 +59,9 @@ public class ArcadeApp extends Application {
     public void start(Stage stage) {
         this.stage = stage;
         Image revp = new Image("file:resources/reversipretty.png",600,700,false,false);
+        Scene scene = new Scene(home);
+
+        Button restart = new Button("Restart");
         ImageView t2 = new ImageView(revp);
         Button exitGame = new Button("exit app");
         StackPane.setAlignment(t2, Pos.CENTER);
